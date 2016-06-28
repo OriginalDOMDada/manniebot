@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chieflotsadoe/manniebot/issues"
   },
-  "homepage": "https://github.com/chieflotsadoe/manniebot#readme"
+  "homepage": "https://github.com/chieflotsadoe/manniebot#readme",
+  "dependencies": {
+    "slackbots": "^0.5.1"
+  }
 }
